@@ -1,8 +1,6 @@
-# 3D-First-Person-Shooter-Game
-A first-person shooter game that I made for my Game Development I class.
+This project represents a first-person shooter game developed as part of my Game Development I class. The game showcases the following features:
 
-Features in the game include:
-* Weapon switching using the "Q" key
-* NPCs that patrol a certain area using Unity's game AI
-* Sound and visual effects using the particle system
-* Bullets and Health system
+* Weapon Switching: Switch between weapons using the "Q" key.
+* AI-Powered NPCs: Implementing Unity's game AI, the game features NPCs patrolling designated areas
+* Audio and Visual Effects: Enhanced the gaming atmosphere with sound and visual effects using Unity's particle system.
+* Bullets and Health System: Keeps track of how many lives and bullets the player has left.
